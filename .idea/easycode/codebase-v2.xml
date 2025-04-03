@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/WonderDrugs/src/main/java/org/wonder/wonderdrugs/config/WebConfig.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/controller/AuthController.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/controller/SiteController.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/controller/StudyController.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/model/Country.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/model/Person.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/model/Site.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/model/StatusColor.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/model/Study.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/service/VaultService.java;G:/java/javaproject/veeva/WonderDrugs/src/main/java/org/wonder/wonderdrugs/VaultMapApplication.java;G:/java/javaproject/veeva/WonderDrugs/pom.xml" />
+  </component>
+</project>
